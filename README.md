@@ -2,13 +2,13 @@
 AVL TREE (Balanced BST) is our 3rd semester's course (Data Structures and Algorithms) project.
 #### This project contains class AVL Tree (Balanced BST) with its following methods:
 ##### 1.	INSERT:
-Running time O(lgn), inserts a node along with balancing a tree after every insertion.
+Running time O(logn), inserts a node along with balancing a tree after every insertion.
 
 ##### 2.	DELETE:
-Running time O(lgn), deletes a node using 3 cases of BST along with balancing a tree after every deletion.
+Running time O(logn), deletes a node using 3 cases of BST along with balancing a tree after every deletion.
 
 ##### 3.	SEARCH:
-Running time O(lgn), searches a node in a tree.
+Running time O(logn), searches a node in a tree.
 
 ##### 4.	LEFT ROTATION:
 Rotates left if right side of a tree is unbalanced (heavy).
