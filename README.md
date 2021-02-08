@@ -16,38 +16,32 @@ Rotates left if right side of a tree is unbalanced (heavy).
 ##### 5.	RIGHT ROTATION:
 Rotates right if left side of a tree is unbalanced (heavy).
 
-##### 6.	LEFT RIGHT ROTATION:
-Rotates left along with right rotation.
-
-##### 7.	RIGHT LEFT ROTATION:
-Rotates right along with left rotation.
-
-##### 8.	BALANCE FACTOR:
+##### 6.	BALANCE FACTOR:
 Contains a formula for checking the state of a node is balanced and fulfills the AVL properties or not.
 
-##### 9.	HEIGHT:
+##### 7.	HEIGHT:
 Returns height of a tree.
 
-##### 10.	SIZE:
-Returns size of a tree.
+##### 8.	SIZE:
+Running time O(logn), returns size of a tree.
 
-##### 11.	INORDER:
-Returns in order tree traversal with increasing order (left, root, right).  
+##### 9.	INORDER:
+Running time O(n), returns in order tree traversal with increasing order (left, root, right).  
 
-##### 12.	PREORDER:
-Returns in order tree traversal with increasing order (root, left, right).
+##### 10.	PREORDER:
+Running time O(n), returns in order tree traversal with increasing order (root, left, right).
 
-##### 13.	POSTORDER:
-Returns in order tree traversal with increasing order (left, right, root).
+##### 11.	POSTORDER:
+Running time O(n), returns in order tree traversal with increasing order (left, right, root).
 
-##### 14.	SUCCESSOR:
+##### 12.	SUCCESSOR:
 Returns successor of a node in a tree. (max value in the right sub tree)
 
-##### 15.	PREDECESSOR:
+##### 13.	PREDECESSOR:
 Returns predecessor of a node in a tree. (max value in the left sub tree)
 
-##### 16.	MAXIMUM:
+##### 14.	MAXIMUM:
 Returns maximum node of a tree.
 
-##### 17.	MINIMUM:
+##### 15.	MINIMUM:
 Returns minimum node of a tree.
